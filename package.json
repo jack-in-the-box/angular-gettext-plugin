@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/augusto-altman/angular-gettext-plugin#readme",
   "dependencies": {
-    "angular-gettext-tools": "2.3.6",
+    "angular-gettext-tools": "jack-in-the-box/angular-gettext-tools#master",
     "glob": "7.1.2"
   }
 }
